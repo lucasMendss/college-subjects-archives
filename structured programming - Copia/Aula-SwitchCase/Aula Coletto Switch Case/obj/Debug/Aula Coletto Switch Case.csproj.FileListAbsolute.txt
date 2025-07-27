@@ -1,0 +1,7 @@
+C:\Users\aluno\Desktop\Aula Coletto Switch Case\Aula Coletto Switch Case\bin\Debug\Aula Coletto Switch Case.exe.config
+C:\Users\aluno\Desktop\Aula Coletto Switch Case\Aula Coletto Switch Case\bin\Debug\Aula Coletto Switch Case.exe
+C:\Users\aluno\Desktop\Aula Coletto Switch Case\Aula Coletto Switch Case\bin\Debug\Aula Coletto Switch Case.pdb
+C:\Users\aluno\Desktop\Aula Coletto Switch Case\Aula Coletto Switch Case\obj\Debug\Aula Coletto Switch Case.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Aula Coletto Switch Case\Aula Coletto Switch Case\obj\Debug\Aula Coletto Switch Case.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Aula Coletto Switch Case\Aula Coletto Switch Case\obj\Debug\Aula Coletto Switch Case.exe
+C:\Users\aluno\Desktop\Aula Coletto Switch Case\Aula Coletto Switch Case\obj\Debug\Aula Coletto Switch Case.pdb

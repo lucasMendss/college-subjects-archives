@@ -1,0 +1,21 @@
+C:\Users\aluno\Desktop\Aula-2-Coletto\Aula-2-Coletto\Aula-2-Coletto\bin\Debug\Aula-2-Coletto.exe.config
+C:\Users\aluno\Desktop\Aula-2-Coletto\Aula-2-Coletto\Aula-2-Coletto\bin\Debug\Aula-2-Coletto.exe
+C:\Users\aluno\Desktop\Aula-2-Coletto\Aula-2-Coletto\Aula-2-Coletto\bin\Debug\Aula-2-Coletto.pdb
+C:\Users\aluno\Desktop\Aula-2-Coletto\Aula-2-Coletto\Aula-2-Coletto\obj\Debug\Aula-2-Coletto.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Aula-2-Coletto\Aula-2-Coletto\Aula-2-Coletto\obj\Debug\Aula-2-Coletto.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Aula-2-Coletto\Aula-2-Coletto\Aula-2-Coletto\obj\Debug\Aula-2-Coletto.exe
+C:\Users\aluno\Desktop\Aula-2-Coletto\Aula-2-Coletto\Aula-2-Coletto\obj\Debug\Aula-2-Coletto.pdb
+C:\Users\Windows 11\OneDrive\Estudos\Programação e T.I\C#\Aula-2-Coletto\Aula-2-Coletto\bin\Debug\Aula-2-Coletto.exe.config
+C:\Users\Windows 11\OneDrive\Estudos\Programação e T.I\C#\Aula-2-Coletto\Aula-2-Coletto\bin\Debug\Aula-2-Coletto.exe
+C:\Users\Windows 11\OneDrive\Estudos\Programação e T.I\C#\Aula-2-Coletto\Aula-2-Coletto\bin\Debug\Aula-2-Coletto.pdb
+C:\Users\Windows 11\OneDrive\Estudos\Programação e T.I\C#\Aula-2-Coletto\Aula-2-Coletto\obj\Debug\Aula-2-Coletto.csproj.AssemblyReference.cache
+C:\Users\Windows 11\OneDrive\Estudos\Programação e T.I\C#\Aula-2-Coletto\Aula-2-Coletto\obj\Debug\Aula-2-Coletto.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\OneDrive\Estudos\Programação e T.I\C#\Aula-2-Coletto\Aula-2-Coletto\obj\Debug\Aula-2-Coletto.exe
+C:\Users\Windows 11\OneDrive\Estudos\Programação e T.I\C#\Aula-2-Coletto\Aula-2-Coletto\obj\Debug\Aula-2-Coletto.pdb
+C:\Users\aluno\Desktop\Aula-2-Coletto\Aula-2-Coletto\bin\Debug\Aula-2-Coletto.exe.config
+C:\Users\aluno\Desktop\Aula-2-Coletto\Aula-2-Coletto\bin\Debug\Aula-2-Coletto.exe
+C:\Users\aluno\Desktop\Aula-2-Coletto\Aula-2-Coletto\bin\Debug\Aula-2-Coletto.pdb
+C:\Users\aluno\Desktop\Aula-2-Coletto\Aula-2-Coletto\obj\Debug\Aula-2-Coletto.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Aula-2-Coletto\Aula-2-Coletto\obj\Debug\Aula-2-Coletto.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Aula-2-Coletto\Aula-2-Coletto\obj\Debug\Aula-2-Coletto.exe
+C:\Users\aluno\Desktop\Aula-2-Coletto\Aula-2-Coletto\obj\Debug\Aula-2-Coletto.pdb
