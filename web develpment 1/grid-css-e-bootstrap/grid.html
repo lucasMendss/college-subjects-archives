@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testando Grid</title>
+    <style>
+        .container{
+            display: grid;
+            grid-template-columns: 2;
+            grid-template-rows: auto auto auto;
+            grid-template-areas: 
+            "header header"
+            "lista content"
+            "footer footer";
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <header style="grid-area: header;"><h1>Página inicial</h1></header>
+    <div style="grid-area: lista;">
+        <ol>
+            <li>Juuj</li>
+            <li>Saas</li>
+            <li>Zeez</li>
+            <li>Luul</li>
+        </ol>
+    </div>
+    <div style="grid-area: content;">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta adipisci modi sunt facere placeat animi, repellat voluptatem rem, amet, accusantium cupiditate nihil. Eos molestiae fugiat ullam, aut quis magnam voluptatibus.</div>
+    <footer style="grid-area: footer;">Lucas Mendes</footer>
+</div>   
+</body>
+</html>

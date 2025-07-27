@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Exercícios - Aula 8</title>
+    </head>
+
+    <body>
+        <h1>Tipos de Inputs</h1>
+        <form method="POST" action="http://10.111.211.110:8088/aula8_Exercicio.php">
+            <input type="hidden" name="prontuario" value="CB3036871">
+
+            <label for="nome_completo">Nome:</label>
+            <input type="text" name="nome_completo" placeholder="Nome" required>
+            <br><br>
+            <label for="tel">Celular:</label>
+            <input type="tel" name="celular" placeholder="(00) 00000-0000" required>
+            <br><br>
+            <label for="e-mail">E-mail:</label>
+            <input type="e-mail" name="e-mail" placeholder="seu@email.com" required>
+            <br><br>
+            <label for="idade">Idade:</label>
+            <input type="number" name="idade" min="18" step="1" placeholder="Idade" required>
+            <br><br>
+            <label for="nascimento">Data de nascimento:</label>
+            <input type="date" name="nascimento" max="2007-04-29" required>
+            <br><br>
+            <label for="investimento">Investimento:</label>
+            <input type="range" name="investimento" step="10" min="0" max="1000" required>
+            <br><br>
+            <label for="preferencia">Data e hora p/ agendamento:</label>
+            <input type="datetime-local" name="preferencia" min="2025-04-29" required>
+            <br><br>
+            <label for="linkedin">LinkedIn:</label>
+            <input type="url" name="linkedin" placeholder="https://siteexemplo.com" required>
+            <br><br>
+            <label for="cor_preferida">Selecione sua cor preferida:</label>
+            <input type="color" name="cor_preferida" required>
+
+            <p>Selecione seu grau de formação:</p>
+            
+            <input type="radio" name="formacao" id="fundamental" value="fundamental" required>
+            <label for="fundamental">Fundamental</label>
+
+            <input type="radio" name="formacao" id="medio" value="medio" required>
+            <label for="medio">Médio</label>
+
+            <input type="radio" name="formacao" id="superior_inco" value="superior_inco" required>
+            <label for="superior_inco">Superior incompleto</label>
+
+            <input type="radio" name="formacao" id="superior_com" value="superior_com" required>
+            <label for="superior_com">Superior Completo</label>
+
+            <input type="radio" name="formacao" id="pos" value="pos" required>
+            <label for="pos">Pós-graduação</label>
+            <br><br>
+            <input type="submit" value="Enviar">
+        </form>
+    </body>
+</html>
