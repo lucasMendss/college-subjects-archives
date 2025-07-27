@@ -1,0 +1,7 @@
+C:\Users\aluno\Desktop\Aula-3-Coletto\Aula-3-Coletto(31-03-2025)\Aula-3-Coletto(31-03-2025)\bin\Debug\Aula-3-Coletto(31-03-2025).exe.config
+C:\Users\aluno\Desktop\Aula-3-Coletto\Aula-3-Coletto(31-03-2025)\Aula-3-Coletto(31-03-2025)\bin\Debug\Aula-3-Coletto(31-03-2025).exe
+C:\Users\aluno\Desktop\Aula-3-Coletto\Aula-3-Coletto(31-03-2025)\Aula-3-Coletto(31-03-2025)\bin\Debug\Aula-3-Coletto(31-03-2025).pdb
+C:\Users\aluno\Desktop\Aula-3-Coletto\Aula-3-Coletto(31-03-2025)\Aula-3-Coletto(31-03-2025)\obj\Debug\Aula-3-Coletto(31-03-2025).csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Aula-3-Coletto\Aula-3-Coletto(31-03-2025)\Aula-3-Coletto(31-03-2025)\obj\Debug\Aula-3-Coletto(31-03-2025).csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Aula-3-Coletto\Aula-3-Coletto(31-03-2025)\Aula-3-Coletto(31-03-2025)\obj\Debug\Aula-3-Coletto(31-03-2025).exe
+C:\Users\aluno\Desktop\Aula-3-Coletto\Aula-3-Coletto(31-03-2025)\Aula-3-Coletto(31-03-2025)\obj\Debug\Aula-3-Coletto(31-03-2025).pdb
